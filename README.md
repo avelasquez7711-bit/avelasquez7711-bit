@@ -2,7 +2,7 @@
 
 ## About Me
 I'm an aspiring **Software Engineer**, currently working on a [Brain Tumor MRI Detection](https://github.com/SahilMulki/brain-tumor-detection) Project with my peers from **AI4ALL's Summer Ignite 2026** cohort!  
-Apart from that project, I'm currently learning AWS and Clause Code!
+Apart from that project, I'm currently learning AWS and Claude Code!
 
 ## Skills & Certifications
 **Languages/Tools:** Python, C++, C, UNIX, VS Code, Qt Creator, Git, GitHub, Command Line, VEX Robotixs  

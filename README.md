@@ -5,7 +5,7 @@ I'm an aspiring **Software Engineer**, currently working on a [Brain Tumor MRI D
 Apart from that project, I'm currently learning AWS and Claude Code!
 
 ## Skills & Certifications
-**Languages/Tools:** Python, C++, C, UNIX, VS Code, Qt Creator, Git, GitHub, Command Line, VEX Robotixs  
+**Languages/Tools:** Python, C++, C, VS Code, Qt Creator, GitHub, PowerShell CLI, VEX Robotics
 **Core Skills:** Full-Stack Development, Game Development, Mobile Prototyping, Robotics Programming, API Integration  
 **Certifications:** [Introduction to Git and GitHub – Google](https://coursera.org/verify/NFAMKCHN5L6L) | Issued: June, 2026  
 
